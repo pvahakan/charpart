@@ -1,3 +1,3 @@
 # charpart
 
-[binder](https://hub.2i2c.mybinder.org/user/pvahakan-charpart-jef8mbc0/doc/tree/varattu_hiukkanen.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pvahakan/charpart/main?labpath=varattu_hiukkanen.ipynb)
